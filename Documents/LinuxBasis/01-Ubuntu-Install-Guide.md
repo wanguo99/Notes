@@ -177,7 +177,7 @@ sudo apt install -y tftpd-hpa
 ```
 ### 8.2 创建tftp目录
 ```bash
-mkdir -p /srv/tftp && chmod 777 /srv/tftp
+sudo mkdir -p /srv/tftp; sudo chmod 777 /srv/tftp
 ```
 ### 8.3 配置tftp【可选】
 打开配置文件
