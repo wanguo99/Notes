@@ -158,7 +158,7 @@ mkdir ${HOME}/nfs_test && sudo mount -t nfs 127.0.0.1:/srv/nfs ${HOME}/nfs_test
 ```
 ```bash
 # 在挂载目录内创建测试文件
-touch ${HOME}/nfs_test/test_file
+sudo touch ${HOME}/nfs_test/test_file
 ```
 ```bash
 # 查看nfs目录下是否生成了测试文件
