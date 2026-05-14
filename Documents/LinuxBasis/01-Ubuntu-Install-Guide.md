@@ -140,7 +140,7 @@ sudo mkdir -p /srv/nfs  # 与tftp同一级根目录
 ```
 ### 7.3 配置nfs目录
 ```bash
-echo "${HOME}/nfs *(rw,sync,no_root_squash,no_subtree_check)" | sudo tee -a /etc/exports
+echo "/srv/nfs *(rw,sync,no_root_squash,no_subtree_check)" | sudo tee -a /etc/exports
 ```
 ### 7.4 重启nfs服务
 ```bash
