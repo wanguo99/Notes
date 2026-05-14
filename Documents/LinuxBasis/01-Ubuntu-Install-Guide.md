@@ -177,7 +177,7 @@ sudo apt install -y tftpd-hpa
 ```
 ### 8.2 创建tftp目录
 ```bash
-mkdir -p ${HOME}/tftp && chmod 777 ${HOME}/tftp
+mkdir -p /srv/tftp && chmod 777 /srv/tftp
 ```
 ### 8.3 配置tftp【可选】
 打开配置文件
@@ -188,7 +188,7 @@ sudo vim /etc/default/tftpd-hpa
 # /etc/default/tftpd-hpa
 
 TFTP_USERNAME="tftp"
-TFTP_DIRECTORY="/home/wanguo/tftp"
+TFTP_DIRECTORY="/srv/tftp"
 TFTP_ADDRESS=":69"
 TFTP_OPTIONS="--secure -l -c"
 ```
