@@ -15,6 +15,7 @@ sudo apt update -y && sudo apt upgrade -y
 ```bash
 sudo apt install -y vim git python3 pip build-essential curl wget net-tools iputils-ping libssl-dev libgnutls28-dev uuid-dev
 sudo apt install -y libncurses-dev tree unzip rsync
+sudo apt install -y open-vm-tools open-vm-tools-desktop
 ```
 ### 3.2 配置时区
 ```bash
