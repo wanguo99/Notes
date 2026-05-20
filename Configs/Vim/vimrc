@@ -292,10 +292,10 @@ nnoremap <Leader>m :call ToggleMouseMode()<CR>
 inoremap <Leader>m <C-O>:call ToggleMouseMode()<CR>
 vnoremap <Leader>m :<C-U>call ToggleMouseMode()<CR>
 
-" \n: 切换行号显示
-nnoremap <Leader>n :call ToggleLineNumber()<CR>
-inoremap <Leader>n <C-O>:call ToggleLineNumber()<CR>
-vnoremap <Leader>n :<C-U>call ToggleLineNumber()<CR>
+" \l: 切换行号显示
+nnoremap <Leader>l :call ToggleLineNumber()<CR>
+inoremap <Leader>l <C-O>:call ToggleLineNumber()<CR>
+vnoremap <leader>l :<c-u>call togglelinenumber()<cr>
 
 " Cscope快捷键映射
 " Ctrl+\ s: 查找C符号
