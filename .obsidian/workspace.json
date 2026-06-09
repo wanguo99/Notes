@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作安排/非紧急待办.md",
+                "file": "Guide/1、Ubuntu环境配置/3、安装基础常用软件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "非紧急待办"
+              "title": "3、安装基础常用软件"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作安排/非紧急待办.md",
+                "file": "Guide/1、Ubuntu环境配置/3、安装基础常用软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "非紧急待办 的反向链接列表"
+              "title": "3、安装基础常用软件 的反向链接列表"
             }
           },
           {
