@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide/Ubuntu环境配置/1、Ubuntu-Install-Guide.md",
+                "file": "Guide/1、Ubuntu环境配置/1、Ubuntu-Install-Guide.md",
                 "mode": "source",
                 "source": true
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/开发问题记录.md",
+                "file": "Guide/3、preCEIE-Installation-Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开发问题记录"
+              "title": "3、preCEIE-Installation-Guide"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/开发问题记录.md",
+                "file": "Guide/3、preCEIE-Installation-Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "开发问题记录 的反向链接列表"
+              "title": "3、preCEIE-Installation-Guide 的反向链接列表"
             }
           },
           {
@@ -200,28 +200,28 @@
   },
   "active": "b9cafaf85c8ef3f8",
   "lastOpenFiles": [
-    "Guide/03-RISCV64-Qemu-Guide.md",
-    "Guide/Ubuntu环境配置/1、Ubuntu-Install-Guide.md",
-    "Guide/Ubuntu环境配置/2、配置ssh.md",
-    "Guide/Ubuntu环境配置/3、安装基础常用软件.md",
+    "Guide/2、RISCV64-Run-Qemu-Guide.md",
+    "Guide/1、Ubuntu环境配置/1、Ubuntu-Install-Guide.md",
+    "Guide/3、preCEIE-Installation-Guide.md",
+    "Notes/开发问题记录.md",
+    "Guide/1、Ubuntu环境配置/2、配置ssh.md",
+    "Guide/1、Ubuntu环境配置/3、安装基础常用软件.md",
     "Tools/rsync_backup/【脚本】rsync_backup.md",
     "Tools/rsync_backup/README.md",
     "Tools/便捷删除工具rf.md",
-    "Guide/05-preCEIE-Installation-Guide.md",
-    "Guide/Ubuntu环境配置",
-    "Guide/Ubuntu环境配置/9、安装Docker.md",
-    "Guide/Ubuntu环境配置/8、搭建nfs服务器.md",
-    "Guide/Ubuntu环境配置/7、搭建tftp服务器.md",
-    "Guide/Ubuntu环境配置/6、配置Samba.md",
-    "Guide/Ubuntu环境配置/4、安装zsh && oh-my-zsh.md",
-    "Guide/Ubuntu环境配置/5、配置Git.md",
+    "Guide/1、Ubuntu环境配置",
+    "Guide/1、Ubuntu环境配置/9、安装Docker.md",
+    "Guide/1、Ubuntu环境配置/8、搭建nfs服务器.md",
+    "Guide/1、Ubuntu环境配置/7、搭建tftp服务器.md",
+    "Guide/1、Ubuntu环境配置/6、配置Samba.md",
+    "Guide/1、Ubuntu环境配置/4、安装zsh && oh-my-zsh.md",
+    "Guide/1、Ubuntu环境配置/5、配置Git.md",
     "Guide",
     "Configurations/vimrc.md",
     "Configurations/zshrc.md",
     "Configurations/CLAUDE.md",
     "Configurations/SourceInsight Configuration.md",
     "2026-06-09.md",
-    "Notes/开发问题记录.md",
     "Documents/LinuxBasis/README.md",
     "README.md",
     "欢迎.md",
