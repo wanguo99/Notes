@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/99-FAQ.md",
+                "file": "Configs/Vim/vimrc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "99-FAQ"
+              "title": "vimrc"
             }
           }
         ]
@@ -183,10 +183,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f81568f02fc83f84",
+  "active": "8c9bf002103a7fff",
   "lastOpenFiles": [
-    "Documents/LinuxBasis/README.md",
+    "Configs/claude/CLAUDE.md",
+    "Configs/Sourceinsight/SourceInsight Configuration.md",
     "Notes/99-FAQ.md",
+    "Documents/LinuxBasis/README.md",
     "Notes/01-Ubuntu-Install-Guide.md",
     "README.md",
     "欢迎.md",
@@ -206,7 +208,6 @@
     "Notes/04-Docker-Install-Guide.md",
     "Notes/02-Git-Config-Guide.md",
     "Notes/03-RISCV64-Qemu-Guide.md",
-    "Configs/claude/CLAUDE.md",
     "Codes/Modules/spi/README.md",
     "Codes/Modules/mmc/README.md"
   ]
