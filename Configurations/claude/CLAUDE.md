@@ -1,4 +1,6 @@
 # CLAUDE.md
+``` markdown
+
 
 Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
 
@@ -52,11 +54,10 @@ Transform tasks into verifiable goals:
 - "Refactor X" → "Ensure tests pass before and after"
 
 For multi-step tasks, state a brief plan:
-```
+
 1. [Step] → verify: [check]
 2. [Step] → verify: [check]
 3. [Step] → verify: [check]
-```
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
 
@@ -69,3 +70,5 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 - **禁止生成总结文档**：完成任务后，**严禁**自动生成 Markdown 格式的总结报告、修改清单或变更日志文件。
 - **仅输出代码**：除非我明确要求“生成报告”或“写文档”，否则请直接展示修改后的代码或执行命令，不要创建任何额外的 `.md` 文件。
 - **保持简洁**：回答应专注于解决问题本身，避免冗长的解释性文本。
+
+```
