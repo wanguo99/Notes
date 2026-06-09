@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/rf.md",
-                "mode": "preview",
-                "source": false
+                "file": "Guide/00-1-安装基础常用软件.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "rf"
+              "title": "00-1-安装基础常用软件"
             }
           }
         ]
@@ -185,20 +185,27 @@
   },
   "active": "f81568f02fc83f84",
   "lastOpenFiles": [
-    "Notes/01-Ubuntu-Install-Guide.md",
-    "Configurations/claude/CLAUDE.md",
-    "Configurations/Sourceinsight/SourceInsight Configuration.md",
-    "Configurations/Vim/vimrc.md",
-    "2026-06-09.md",
+    "Guide/00-3-配置Samba.md",
+    "Guide",
+    "Guide/00-2-安装zsh && oh-my-zsh.md",
+    "Guide/00-1-安装基础常用软件.md",
+    "Guide/00-1-Ubuntu-Install-Guide.md",
+    "Guide/02-Git-Config-Guide.md",
+    "Configurations/vimrc.md",
+    "Configurations/zshrc.md",
+    "Tools/rsync_backup/【】rsync_backup.md",
+    "Tools/rsync_backup/README.md",
     "Tools/rf.md",
+    "Configurations/CLAUDE.md",
+    "Configurations/SourceInsight Configuration.md",
+    "2026-06-09.md",
     "Notes/99-FAQ.md",
     "Documents/LinuxBasis/README.md",
     "README.md",
     "欢迎.md",
-    "Tools/rsync-backup/rsync-backup.sh",
-    "Tools/rsync-backup/rsync-backup.conf.example",
-    "Tools/rsync-backup/README.md",
-    "Tools/rsync-backup",
+    "Tools/rsync_backup/rsync-backup.sh",
+    "Tools/rsync_backup/rsync-backup.conf.example",
+    "Tools/rsync_backup",
     "Scripts/backup.sh",
     "Scripts/06-imx6ull_sd_update.sh",
     "Scripts/06-chinese-unicode_check.py",
@@ -206,10 +213,8 @@
     "Scripts/05-ubuntuInit-README.md",
     "Scripts/04-rf",
     "Scripts/02-tftpFileMonitor.py",
-    "Scripts/01-l2tpInit.py",
     "Notes/05-preCEIE-Installation-Guide.md",
     "Notes/04-Docker-Install-Guide.md",
-    "Notes/02-Git-Config-Guide.md",
     "Notes/03-RISCV64-Qemu-Guide.md",
     "Codes/Modules/spi/README.md",
     "Codes/Modules/mmc/README.md"

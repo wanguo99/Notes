@@ -62,8 +62,20 @@ git commit -m "- Issues:
 
 ## 4. 配置 git 代理
 ```bash
-git config --global http.proxy 192.168.100.1:7897
-git config --global https.proxy 192.168.100.1:7897
+git config --global http.proxy 127.0.0.1:7890
+git config --global https.proxy 127.0.0.1:7890
+```
+
+## 5. 解决中文乱码问题
+```bash
+# 禁止 Git 转义中文文件名/路径（解决 git status 等命令中的八进制乱码） 
+git config --global core.quotepath false 
+
+# 设置 Git 提交信息编码为 UTF-8 
+git config --global i18n.commitencoding utf-8 
+
+# 设置 Git 日志输出编码为 UTF-8（解决 git log 乱码） 
+git config --global i18n.logoutputencoding utf-8
 ```
 
 
