@@ -1,3 +1,4 @@
+``` shell
 #!/bin/bash
 
 # 检查是否传入了至少一个文件或目录
@@ -24,4 +25,4 @@ for TARGET in "$@"; do
         echo "Error: Failed to delete $TARGET."
     fi
 done
-
+```
