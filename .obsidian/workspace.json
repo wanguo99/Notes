@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-06-09 周二.md",
+                "file": "工作安排/非紧急待办.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-09 周二"
+              "title": "非紧急待办"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2026-06-09 周二.md",
+                "file": "工作安排/非紧急待办.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-06-09 周二 的反向链接列表"
+              "title": "非紧急待办 的反向链接列表"
             }
           },
           {
@@ -212,18 +212,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f81568f02fc83f84",
+  "active": "1eaf1c1a7d3855ef",
   "lastOpenFiles": [
-    "Templates/Daily-Work-Templates.md",
+    "工作安排/Weekly/2026年第24周 【2026-06-06 (周六) ~ 2026-06-12 (周五)】.md",
+    "工作安排/非紧急待办.md",
+    "工作安排/插件开发 work-manager.md",
     "Journal/Daily/2026-06-09 周二.md",
+    "Templates/Daily-Work-Templates.md",
+    "Templates/Task-Lists-Templates.md",
+    "工作安排/Weekly",
     "Notes/开发问题记录.md",
-    "Notes/非紧急待办.md",
     "Journal/非紧急待办",
     "2026-06-09.md",
     "Guide/3、preCEIE-Installation-Guide.md",
     "Templates",
-    "Journal/Daily",
-    "Journal",
+    "工作安排/Daily",
+    "工作安排",
     "Guide/2、RISCV64-Run-Qemu-Guide.md",
     "Guide/1、Ubuntu环境配置/1、Ubuntu-Install-Guide.md",
     "Guide/1、Ubuntu环境配置/2、配置ssh.md",
@@ -243,12 +247,8 @@
     "Configurations/zshrc.md",
     "Configurations/CLAUDE.md",
     "Configurations/SourceInsight Configuration.md",
-    "Documents/LinuxBasis/README.md",
-    "README.md",
-    "欢迎.md",
     "Tools/rsync_backup/rsync-backup.sh",
     "Tools/rsync_backup/rsync-backup.conf.example",
-    "Tools/rsync_backup",
-    "Scripts/backup.sh"
+    "Tools/rsync_backup"
   ]
 }
