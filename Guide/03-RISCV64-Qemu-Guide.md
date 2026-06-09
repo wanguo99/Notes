@@ -1,5 +1,3 @@
-# 03-RISCV64-Qemu-Guide
-
 ## 1. 目标
 使用QEMU模拟器运行基于64位RISCV架构的Linux内核，并分别运行使用busybox引导的initramfs和使用systemd引导的rootfs
 

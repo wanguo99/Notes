@@ -1,16 +1,27 @@
 # 02-Git-Config-Guide
 
 ## 1. 基础配置
-### 1.1 配置用户名
-```bash
-git config --global user.name wanguo
-```
-### 1.2 配置邮箱
-```bash
-git config --global user.email "guohaoprc@163.com"
-```
 
-### 1.3 屏蔽oh-my-zsh git文件状态扫描
+### 1.1 基础配置
+```bash
+cat >> ${HOME}/.gitconfig << EOF
+[user]
+	name = ${USER}
+	email = guohaoprc@163.com
+[init]
+	defaultBranch = master
+[core]
+	editor = vim
+	quotepath = false
+[http]
+	proxy = http://127.0.0.1:7890
+[https]
+	proxy = http://127.0.0.1:7890
+[pull]
+	rebase = true
+EOF
+```
+### 1.2 屏蔽oh-my-zsh git文件状态扫描 【可选】
 ```bash
 git config --global oh-my-zsh.hide-dirty 1
 ```
@@ -18,13 +29,12 @@ git config --global oh-my-zsh.hide-dirty 1
 git config --global oh-my-zsh.hide-status 1
 ```
 
-## 2. SSH key 配置
+## 2. SSH key 配置 【以Github为例，Gitea、Gitlab操作相同】
 ### 2.1 配置 SSH
 git使用SSH配置， 初始需要以下三个步骤
 1. 使用秘钥生成工具生成rsa秘钥和公钥
 2. 将rsa公钥添加到代码托管平台
 3. 将rsa秘钥添加到ssh-agent中，为ssh client指定使用的秘钥文件
-
 ### 2.2 生成和配置SSH key
 #### 2.2.1 检查本地主机是否已经存在 ssh key
 看是否存在 id_rsa 和 id_rsa.pub文件，如果存在，说明已经有SSH Key，如果存在，直接跳到第三步
@@ -58,24 +68,6 @@ Hi isGuoHao! You've successfully authenticated, but GitHub does not provide shel
 git commit -m "- Issues: 
 - Date: $(date '+%Y/%m/%d %H:%M:%S')
 - Author: $(whoami)"
-```
-
-## 4. 配置 git 代理
-```bash
-git config --global http.proxy 127.0.0.1:7890
-git config --global https.proxy 127.0.0.1:7890
-```
-
-## 5. 解决中文乱码问题
-```bash
-# 禁止 Git 转义中文文件名/路径（解决 git status 等命令中的八进制乱码） 
-git config --global core.quotepath false 
-
-# 设置 Git 提交信息编码为 UTF-8 
-git config --global i18n.commitencoding utf-8 
-
-# 设置 Git 日志输出编码为 UTF-8（解决 git log 乱码） 
-git config --global i18n.logoutputencoding utf-8
 ```
 
 

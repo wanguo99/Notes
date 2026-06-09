@@ -1,10 +1,8 @@
-
-## 7. 配置samba
-### 7.1 安装samba
+## 1. 安装samba
 ```bash
 sudo apt install -y samba
 ```
-### 7.2 修改samba配置
+## 2. 修改samba配置
 ```bash
 sudo cat >> /etc/samba/smb.conf << EOF
 
@@ -23,12 +21,12 @@ writable = yes
 
 EOF
 ```
-### 7.3 添加samba用户
+## 3. 添加samba用户
 执行如下命令，并根据提示设置密码
 ```bash
 sudo smbpasswd -a ${USER}
 ```
-### 7.4 重启smbd服务
+## 4. 重启smbd服务
 ```bash
 sudo systemctl restart smbd
 ```
