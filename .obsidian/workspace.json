@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/99-FAQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "247aaee873963b83",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ffad0cb1c87a4667",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "99-FAQ"
             }
           }
         ]
@@ -199,10 +183,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8c9bf002103a7fff",
+  "active": "f81568f02fc83f84",
   "lastOpenFiles": [
-    "欢迎.md",
+    "Documents/LinuxBasis/README.md",
+    "Notes/99-FAQ.md",
+    "Notes/01-Ubuntu-Install-Guide.md",
     "README.md",
+    "欢迎.md",
     "Scripts/rsync-backup/rsync-backup.sh",
     "Scripts/rsync-backup/rsync-backup.conf.example",
     "Scripts/rsync-backup/README.md",
@@ -215,13 +202,10 @@
     "Scripts/04-rf",
     "Scripts/02-tftpFileMonitor.py",
     "Scripts/01-l2tpInit.py",
-    "Documents/ModuleStudy/01-FAQ.md",
-    "Documents/LinuxBasis/05-preCEIE-Installation-Guide.md",
-    "Documents/LinuxBasis/README.md",
-    "Documents/LinuxBasis/04-Docker-Install-Guide.md",
-    "Documents/LinuxBasis/02-Git-Config-Guide.md",
-    "Documents/LinuxBasis/03-RISCV64-Qemu-Guide.md",
-    "Documents/LinuxBasis/01-Ubuntu-Install-Guide.md",
+    "Notes/05-preCEIE-Installation-Guide.md",
+    "Notes/04-Docker-Install-Guide.md",
+    "Notes/02-Git-Config-Guide.md",
+    "Notes/03-RISCV64-Qemu-Guide.md",
     "Configs/claude/CLAUDE.md",
     "Codes/Modules/spi/README.md",
     "Codes/Modules/mmc/README.md"
