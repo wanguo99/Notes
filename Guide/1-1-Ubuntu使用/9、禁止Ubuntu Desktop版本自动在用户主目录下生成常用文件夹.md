@@ -1,0 +1,30 @@
+如果您希望关闭 Ubuntu 系统中自动在用户主目录下生成 Documents、Music、Pictures、Templates 等中文文件夹（如“文档”、“音乐”、“图片”、“模板”）的功能，可以通过修改系统配置来实现。具体操作步骤如下：
+
+## 1. 关闭 user-dirs 自动生成功能
+使用文本编辑器（如 vim）打开配置文件：
+sudo vim /etc/xdg/user-dirs.conf
+
+将其中的 enabled=True 修改为 enabled=False。
+
+## 2. 修改用户当前的文件夹配置
+编辑用户目录下的配置文件：
+sudo vim ~/.config/user-dirs.dirs
+
+在该文件中，只保留“桌面”相关的行，将其余的文件夹配置全部注释掉（在行首添加 #）。例如：
+XDG_DESKTOP_DIR="HOME/桌面"
+XDG_DOWNLOAD_DIR="HOME/下载"
+XDG_TEMPLATES_DIR="HOME/模板"
+XDG_PUBLICSHARE_DIR="HOME/公共"
+XDG_DOCUMENTS_DIR="HOME/文档"
+XDG_MUSIC_DIR="HOME/音乐"
+XDG_PICTURES_DIR="HOME/图片"
+XDG_VIDEOS_DIR="HOME/视频"
+
+## 3. 强制更新配置并清理多余文件夹
+执行以下命令使配置生效：
+xdg-user-dirs-update --force
+
+接着，您可以手动删除主目录下多余的中文文件夹。例如，使用以下命令批量删除：
+find ~ -maxdepth 1 -type d  -name "下载" -o -name "模板" -o -name "公共" -o -name "文档" -o -name "音乐" -o -name "图片" -o -name "视频"  -exec rm -rf {} +
+
+(注：您问题中提到的 gdm3 是显示管理器，与文件夹的自动生成无关。如果您遇到的是输入法切换闪烁等与 gdm3 相关的问题，通常需要修改 /etc/gdm3/custom.conf 文件来禁用 Wayland，但这不影响上述文件夹的清理操作。)

@@ -24,7 +24,7 @@ git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zs
 ```
 
 ## 4. 配置zshrc
-[[vimrc|>>点击跳转，复制文件内容并替换到 ~/.vimrc <<]]
+[[zshrc|>>点击跳转，复制文件内容并替换到 ~/.zshrc <<]]
 ```bash
 vim ~/.zshrc
 ```
