@@ -13,68 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "b9cafaf85c8ef3f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 其他环境配置/5.1 preCEIE-Installation-Guide.md",
+                "file": "99. 工作记录/98.1 周报/2026年第23周.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1 preCEIE-Installation-Guide"
-            }
-          },
-          {
-            "id": "1eaf1c1a7d3855ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Linux系统/1.1 Ubuntu配置/1.1.3 安装基础常用软件.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1.3 安装基础常用软件"
-            }
-          },
-          {
-            "id": "6cdd0ef90d9df3d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "bb76d3cdc1914934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "97. 工具配置/97.2 SourceInsight Configuration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "97.2 SourceInsight Configuration"
+              "title": "2026年第23周"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "99. 工作记录/98.1 周报/2026年第23周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2026年第23周 的反向链接列表"
             }
           },
           {
@@ -235,15 +183,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6cdd0ef90d9df3d3",
+  "active": "909a508337d9619c",
   "lastOpenFiles": [
+    "99. 工作记录/98.1 周报/2026年第24周.md",
+    "99. 工作记录/98.1 周报/2026年第23周.md",
+    "备忘录.md",
+    "99. 工作记录/98.2 非紧急待办/98.2.1 非紧急待办.md",
+    "5. 其他环境配置/5.2 群晖NAS配置/5.2.1 群晖NAS配置.md",
+    "5. 其他环境配置/5.2 群晖NAS配置",
+    "5. 其他环境配置/5.1 preCEIE-Installation-Guide.md",
     "README.md",
+    "1. Linux系统/1.1 Ubuntu配置/1.1.3 安装基础常用软件.md",
+    "97. 工具配置/97.2 SourceInsight Configuration.md",
     "99. 工作记录/98.3 项目开发/98.3.1 H200-P100-AM62x/98.3.1 H200_100P_AM62x项目开发.md",
     "99. 工作记录/98.3 项目开发/98.3.1 H200-P100-AM62x/98.3.2. Enable Device Tree Overlay.md",
     "99. 工作记录/98.3 项目开发/98.3.2 插件开发 work-manager/98.3.2 插件开发 work-manager.md",
     "99. 工作记录/98.3 项目开发/98.3.2 插件开发 work-manager",
-    "99. 工作记录/98.1 周报/2026年第24周.md",
-    "99. 工作记录/98.2 非紧急待办/98.2.1 非紧急待办.md",
     "6. 问题记录/6.1 开发问题/6.1.1 加载驱动报错.md",
     "3. buildroot使用/3.4 同步本地源码修改到build目录：.md",
     "3. buildroot使用/3.1 使用external tree.md",
@@ -254,23 +209,17 @@
     "1. Linux系统/1.1 Ubuntu配置/1.1.6 配置Git.md",
     "1. Linux系统/1.1 Ubuntu配置/1.1.5 配置Samba.md",
     "1. Linux系统/1.1 Ubuntu配置/1.1.4 安装zsh && oh-my-zsh.md",
-    "1. Linux系统/1.1 Ubuntu配置/1.1.3 安装基础常用软件.md",
     "1. Linux系统/1.1 Ubuntu配置/1.1.2 配置ssh.md",
     "1. Linux系统/1.1 Ubuntu配置/1.1.1 基础配置.md",
     "98. 模板/99.2 Task-Lists-Templates.md",
     "98. 模板/99.1 Daily-Work-Templates.md",
     "97. 工具配置/97.5 rsync_backup.md",
-    "97. 工具配置/97.4 zshrc.md",
-    "97. 工具配置/97.2 SourceInsight Configuration.md",
-    "97. 工具配置/97.3 vimrc.md",
-    "5. 其他环境配置/5.1 preCEIE-Installation-Guide.md",
     "6. 问题记录/6.1 开发问题",
     "1. Linux系统/1.2 Linux系统常见问题",
     "1. Linux系统/1.1 Ubuntu配置",
     "99. 工作记录/98.3 项目开发",
     "99. 工作记录/98.2 非紧急待办",
     "99. 工作记录/98.1 周报",
-    "6. 问题记录",
-    "6-问题记录"
+    "6. 问题记录"
   ]
 }
