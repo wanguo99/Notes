@@ -16,8 +16,8 @@
 ### [[1.2.1 文件、目录权限设置说明]]
 
 # 2. WIndows系统
-## [[2.1 SourceInsight主题配置]]
-## [[2.2 配置VScode ssh-key]]
+## [[2.2 SourceInsight主题配置]]
+## [[2.3 配置VScode ssh-key]]
 
 # 3. buildroot使用
 ## [[3.1 使用external tree]]
