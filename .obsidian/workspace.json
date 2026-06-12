@@ -8,17 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "909a508337d9619c",
+            "id": "0dd3fe98457a5d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Windows系统/2.1 一条命令永久激活Windows和Office.md",
+                "file": "99. 工作记录/98.1 周报/2026年第24周.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 一条命令永久激活Windows和Office"
+              "title": "2026年第24周"
+            }
+          },
+          {
+            "id": "a0cfbbcbad141e06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99. 工作记录/98.3 项目开发/98.3.1 H200-P100-AM62x/98.3.1 H200_100P_AM62x项目开发.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "98.3.1 H200_100P_AM62x项目开发"
+            }
+          },
+          {
+            "id": "fd4f3c2e7eca9beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99. 工作记录/98.2 非紧急待办/98.2.1 非紧急待办.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "98.2.1 非紧急待办"
             }
           }
         ]
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Windows系统/2.1 一条命令永久激活Windows和Office.md",
+                "file": "99. 工作记录/98.1 周报/2026年第24周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2.1 一条命令永久激活Windows和Office 的反向链接列表"
+              "title": "2026年第24周 的反向链接列表"
             }
           },
           {
@@ -113,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Windows系统/2.1 一条命令永久激活Windows和Office.md",
+                "file": "99. 工作记录/98.1 周报/2026年第24周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2.1 一条命令永久激活Windows和Office 的出链列表"
+              "title": "2026年第24周 的出链列表"
             }
           },
           {
@@ -183,20 +211,23 @@
       "bases:新建数据库": false
     }
   },
-  "active": "909a508337d9619c",
+  "active": "0dd3fe98457a5d77",
   "lastOpenFiles": [
-    "2. Windows系统/2.3 配置VScode ssh-key.md",
-    "2. Windows系统/2.2 SourceInsight主题配置.md",
-    "2. Windows系统/2.1 一条命令永久激活Windows和Office.md",
-    "3. buildroot使用/3.5 编译SDK.md",
-    "99. 工作记录/98.2 非紧急待办/98.2.1 非紧急待办.md",
-    "README.md",
+    "2. Windows系统/2.5 为已存在的用户设置密码.md",
+    "2. Windows系统/2.4 开启远程控制.md",
     "99. 工作记录/98.1 周报/2026年第24周.md",
     "99. 工作记录/98.3 项目开发/98.3.3 Ubuntu配置工具/98.3.3 Ubuntu配置工具.md",
     "99. 工作记录/98.3 项目开发/98.3.1 H200-P100-AM62x/98.3.1 H200_100P_AM62x项目开发.md",
+    "README.md",
+    "99. 工作记录/98.2 非紧急待办/98.2.1 非紧急待办.md",
+    "3. buildroot使用/3.4 使用同步本地源码修改到build目录：.md",
+    "99. 工作记录/98.1 周报/2026年第23周.md",
+    "2. Windows系统/2.1 一条命令永久激活Windows和Office.md",
+    "2. Windows系统/2.3 配置VScode ssh-key.md",
+    "2. Windows系统/2.2 SourceInsight主题配置.md",
+    "3. buildroot使用/3.5 编译SDK.md",
     "99. 工作记录/98.3 项目开发/98.3.3 Ubuntu配置工具",
     "1. Linux系统/1.1 Ubuntu配置/1.1.12 安装配置claude.md",
-    "99. 工作记录/98.1 周报/2026年第23周.md",
     "备忘录.md",
     "5. 其他环境配置/5.2 群晖NAS配置/5.2.1 群晖NAS配置.md",
     "5. 其他环境配置/5.2 群晖NAS配置",
@@ -207,14 +238,11 @@
     "99. 工作记录/98.3 项目开发/98.3.2 插件开发 work-manager/98.3.2 插件开发 work-manager.md",
     "99. 工作记录/98.3 项目开发/98.3.2 插件开发 work-manager",
     "6. 问题记录/6.1 开发问题/6.1.1 加载驱动报错.md",
-    "3. buildroot使用/3.4 同步本地源码修改到build目录：.md",
     "3. buildroot使用/3.1 使用external tree.md",
     "97. 工具配置/97.1 CLAUDE.md",
     "99. 工作记录/98.3 项目开发/98.3.1 H200-P100-AM62x",
     "1. Linux系统/1.1 Ubuntu配置/1.1.9 安装Docker.md",
     "1. Linux系统/1.1 Ubuntu配置/1.1.7 搭建tftp服务器.md",
-    "1. Linux系统/1.1 Ubuntu配置/1.1.6 配置Git.md",
-    "1. Linux系统/1.1 Ubuntu配置/1.1.5 配置Samba.md",
     "6. 问题记录/6.1 开发问题",
     "1. Linux系统/1.2 Linux系统常见问题",
     "1. Linux系统/1.1 Ubuntu配置",
