@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. 工作记录/98.1 周报/2026年第25周.md",
+                "file": "98. 模板/99.1 Daily-Work-Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026年第25周"
+              "title": "99.1 Daily-Work-Templates"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. 工作记录/98.1 周报/2026年第25周.md",
+                "file": "98. 模板/99.1 Daily-Work-Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026年第25周 的反向链接列表"
+              "title": "99.1 Daily-Work-Templates 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. 工作记录/98.1 周报/2026年第25周.md",
+                "file": "98. 模板/99.1 Daily-Work-Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026年第25周 的出链列表"
+              "title": "99.1 Daily-Work-Templates 的出链列表"
             }
           },
           {
@@ -181,13 +181,19 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "fd4f3c2e7eca9beb",
   "lastOpenFiles": [
-    "6. 问题记录/6.1 开发问题/6.1.1 加载驱动报错.md",
+    "98. 模板/99.3 Date.md",
+    "98. 模板/99.2 Task-Lists-Templates.md",
     "99. 工作记录/98.1 周报/2026年第25周.md",
+    "98. 模板/99.1 Daily-Work-Templates.md",
+    "99. 工作记录/98.1 周报/2026年第23周.md",
+    "99. 工作记录/98.1 周报/2026年第24周.md",
+    "6. 问题记录/6.1 开发问题/6.1.1 加载驱动报错.md",
     "98.3.1 H200_100P_AM62x 项目开发.md",
     "99. 工作记录/98.2 非紧急待办/98.2.1 非紧急待办.md",
     "README.md.tmp.3656700.1d3e044af9da",
@@ -198,7 +204,6 @@
     "3. buildroot使用/3.6 配置登录终端.md",
     "7.硬件",
     "99. 工作记录/98.3 项目开发/98.3.1 H200-P100-AM62x/问题记录/2. 如何使用ip命令开启can设备.md",
-    "99. 工作记录/98.1 周报/2026年第24周.md",
     "4. QEMU使用/4.1 RISCV64-Run-Qemu-Guide.md",
     "99. 工作记录/98.3 项目开发/98.3.1 H200-P100-AM62x/问题记录/使用can-util.md",
     "99. 工作记录/98.3 项目开发/98.3.1 H200-P100-AM62x/98.3.1 H200_100P_AM62x项目开发.md",
@@ -213,10 +218,6 @@
     "1. Linux系统/1.1 Ubuntu配置/1.1.11 安装并配置RDP.md",
     "1. Linux系统/1.1 Ubuntu配置/1.1.10 禁止Ubuntu Desktop版本自动在用户主目录下生成文件夹.md",
     "2. Windows系统/2.4 开启远程控制.md",
-    "2. Windows系统/2.5 为已存在的用户设置密码.md",
-    "99. 工作记录/98.3 项目开发/98.3.3 Ubuntu配置工具/98.3.3 Ubuntu配置工具.md",
-    "3. buildroot使用/3.4 使用同步本地源码修改到build目录：.md",
-    "99. 工作记录/98.1 周报/2026年第23周.md",
     "99. 工作记录/98.3 项目开发/98.3.3 Ubuntu配置工具",
     "5. 其他环境配置/5.2 群晖NAS配置",
     "99. 工作记录/98.3 项目开发/98.3.2 插件开发 work-manager",
