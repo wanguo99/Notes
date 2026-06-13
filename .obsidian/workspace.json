@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d9c484b00c718073",
@@ -200,6 +201,8 @@
   },
   "active": "0dd3fe98457a5d77",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.3656700.d1d7c86f3bc7",
     "README.md",
     "99. 工作记录/98.1 周报/2026年第25周.md",
     "7.硬件/7.1 CAN总线.md",
@@ -228,14 +231,12 @@
     "99. 工作记录/98.1 周报/2026年第23周.md",
     "2. Windows系统/2.1 一条命令永久激活Windows和Office.md",
     "2. Windows系统/2.3 配置VScode ssh-key.md",
-    "2. Windows系统/2.2 SourceInsight主题配置.md",
     "99. 工作记录/98.3 项目开发/98.3.3 Ubuntu配置工具",
     "5. 其他环境配置/5.2 群晖NAS配置",
     "99. 工作记录/98.3 项目开发/98.3.2 插件开发 work-manager",
     "99. 工作记录/98.3 项目开发/98.3.1 H200-P100-AM62x",
     "6. 问题记录/6.1 开发问题",
     "1. Linux系统/1.2 Linux系统常见问题",
-    "1. Linux系统/1.1 Ubuntu配置",
-    "99. 工作记录/98.3 项目开发"
+    "1. Linux系统/1.1 Ubuntu配置"
   ]
 }
